@@ -6,7 +6,7 @@ The project is a ReactJS application representing a simple book store and a loca
 
 The app supports JWT authentication, error handling, form validation and notification messages(using React Toastify). Its styling is enhanced with Bootstrap. 
 
-It supports **admin functionality**, as well as logged in users and simply visitors. The Admin is seeded at the start of the application. Hes role is to create and manage a collection of books. He can create new books, edit existing ones and/or delete them. 
+It supports **admin functionality**, as well as logged in users and simply visitors. The Admin is seeded at the start of the application. His role is to create and manage a collection of books. He can create new books, edit existing ones and/or delete them. 
 
 The random **visitors** can only see the Landing(Home) page, the All Books page, the Details page and can Register or Log in. 
 
